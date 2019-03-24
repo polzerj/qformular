@@ -1,0 +1,11 @@
+/home/polzerj/Schreibtisch/QFormular/bin/Debug/netcoreapp2.1/QFormular.deps.json
+/home/polzerj/Schreibtisch/QFormular/bin/Debug/netcoreapp2.1/QFormular.runtimeconfig.json
+/home/polzerj/Schreibtisch/QFormular/bin/Debug/netcoreapp2.1/QFormular.runtimeconfig.dev.json
+/home/polzerj/Schreibtisch/QFormular/bin/Debug/netcoreapp2.1/QFormular.dll
+/home/polzerj/Schreibtisch/QFormular/bin/Debug/netcoreapp2.1/QFormular.pdb
+/home/polzerj/Schreibtisch/QFormular/obj/Debug/netcoreapp2.1/QFormular.csprojAssemblyReference.cache
+/home/polzerj/Schreibtisch/QFormular/obj/Debug/netcoreapp2.1/QFormular.csproj.CoreCompileInputs.cache
+/home/polzerj/Schreibtisch/QFormular/obj/Debug/netcoreapp2.1/QFormular.AssemblyInfoInputs.cache
+/home/polzerj/Schreibtisch/QFormular/obj/Debug/netcoreapp2.1/QFormular.AssemblyInfo.cs
+/home/polzerj/Schreibtisch/QFormular/obj/Debug/netcoreapp2.1/QFormular.dll
+/home/polzerj/Schreibtisch/QFormular/obj/Debug/netcoreapp2.1/QFormular.pdb
